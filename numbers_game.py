@@ -30,10 +30,3 @@ else:
 
 
 
-
-Developed a Python application for Attendance Tracking using face recognition and image processing.
-Implemented a Graphical User Interface (GUI) using the tkinter library.
-Utilized face_recognition and dlib libraries for face detection and encoding.
-Managed image storage, captured frames, and performed face recognition to track attendance.
-  
-
